@@ -1,0 +1,114 @@
+BODY {
+font-family: Verdana,Tahoma,Arial;
+background-color: #33CCCC;
+color: black
+}
+.myDiv {
+  border: 3px outset red;
+  background-color: aqua;
+  text-align: left;
+  position:absolute;
+
+  left: 130px;
+}
+.log {
+  position:absolute;
+  left: 900px;
+  top: 350px
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  position:absolute;
+  text-align: center;
+  top: 700px;
+  left: 800px;
+}
+
+td, th {
+  border: 1px solid ;
+  text-align: left;
+  padding: 8px;
+}
+.gh {
+  color: black;
+  font-family: FRANKLIN GOTHIC MEDIUM;
+  font-size: 300%;
+  text-align: center;
+  top: 500px;
+  left: 700px;
+}
+h3 {
+  color: black;
+  font-family: FRANKLIN GOTHIC MEDIUM;
+  font-size: 200%;
+position:absolute;
+text-align: center;
+top: 130px;
+left: 770px;
+}
+h4 {
+  color: black;
+  font-family: FRANKLIN GOTHIC MEDIUM;
+  font-size: 200%;
+position:absolute;
+text-align: center;
+top: 190px;
+left: 770px;
+}
+h2 {
+  color: black;
+  font-family: FRANKLIN GOTHIC MEDIUM;
+  font-size: 250%;
+text-align: left;
+}
+.moved-div{
+  border: 3px outset red;
+  background-color: aqua;
+  text-align: left;
+    position:absolute;
+   left: 1400px;
+}
+#para1 {
+  font-family: verdana;
+  font-size: 40px;
+  color: red;
+}
+ul {
+  text-align: left;
+    font-size: 200%;
+}
+h1.gh{
+  border-style: solid;
+  color: black;
+}
+td.gh1{border: 5px solid black;
+  margin-top: 700px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 60px;
+  padding-top: 50px;
+  padding-right: 40px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  background-color: aqua;
+}
+.krg{
+  color: black;
+  font-family: FRANKLIN GOTHIC MEDIUM;
+  font-size: 200%;
+position:absolute;
+text-align: center;
+top: 1130px;
+left: 770px;
+}
+.trg{
+  color: black;
+  text-align: left;
+  top: 1200px;
+  left: 70px;
+}
+img{
+  float: left;
+}
